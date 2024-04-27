@@ -20,4 +20,6 @@
 <br>
 <h2>How it looks: </h2>
 <br>
-![music_player](https://github.com/banasmita24/Music-Player-Using-Tkinter/assets/155791058/e955a382-7e60-4f2a-acea-cc340ce1441c)
+
+![music_player](https://github.com/banasmita24/Music-Player-Using-Tkinter/assets/155791058/64fe9192-67b0-4204-a590-b9b56ac8e714)
+
