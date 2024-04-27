@@ -9,7 +9,6 @@
 <h2>Required Libraries: </h2>
 <li>tkinter library</li>
 <li>pygame library</li>
-<li>os</li>
 <br>
 <h2>Usage: </h2>
 <li>Install the required libraries.</li>
