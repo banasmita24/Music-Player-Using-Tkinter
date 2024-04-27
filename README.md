@@ -17,4 +17,6 @@
 <br>
 <h3>References: </h3>
 <a href="https://www.youtube.com/watch?v=OmkQpaXdxc0">Click here - Music Player</a>
+<br>
 
+![music_player](https://github.com/banasmita24/Music-Player-Using-Tkinter/assets/155791058/e955a382-7e60-4f2a-acea-cc340ce1441c)
