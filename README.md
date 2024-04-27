@@ -16,4 +16,5 @@
 <li>Run the 'music_player.py' file.</li>
 <br>
 <h3>References: </h3>
-<a href>https://www.youtube.com/watch?v=OmkQpaXdxc0</a>
+<a href="https://www.youtube.com/watch?v=OmkQpaXdxc0">Click here - Music Player</a>
+
